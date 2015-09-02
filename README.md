@@ -3,7 +3,7 @@
 This repository contains the source for `asmjs2wasm`, a command-line tool that
 converts asm.js to the WebAssembly text format.
 
-** This tool is currently in development and incomplate **
+**This tool is currently in development and incomplete**
 
 Current limitations of the tool:
 * The tool only accepts files containing a single top-level asm.js module
